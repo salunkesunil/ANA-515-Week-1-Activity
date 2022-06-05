@@ -1,2 +1,2 @@
 # ANA-515-Week-1-Activity
-Using R Studio to run the .RMD file and knit the document
+R coding activity using R Markdown and some R functions on gun deaths data
